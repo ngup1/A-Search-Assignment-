@@ -1,0 +1,14 @@
+Uniform Cost Search (UCS):
+  Cost: 880
+  Explored nodes: 10
+  Path: ['APARTMENT', 'TELLEZ_INTERSECTION_1', 'ALT_RESIDENTIAL_ROUTE', 'PARK_ROUTE', 'SLU_GATE_NORTH']
+
+Greedy Best-First Search:
+  Cost: 880
+  Explored nodes: 5
+  Path: ['APARTMENT', 'TELLEZ_INTERSECTION_1', 'ALT_RESIDENTIAL_ROUTE', 'PARK_ROUTE', 'SLU_GATE_NORTH']
+
+A* Search:
+  Cost: 880
+  Explored nodes: 5
+  Path: ['APARTMENT', 'TELLEZ_INTERSECTION_1', 'ALT_RESIDENTIAL_ROUTE', 'PARK_ROUTE', 'SLU_GATE_NORTH']
